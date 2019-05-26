@@ -1,0 +1,111 @@
+﻿
+.clear {
+    clear: both;
+}
+
+* {
+    text-align: center;
+}
+
+.hf {
+    margin-top:10px;
+    float: left;
+    height: 50px;
+    width: 600px;
+    box-sizing: border-box;
+    background-color: dimgrey;
+    font-size: 20px;
+    padding-top: 13px;
+    color: white;
+}
+
+.left {
+    margin-left: 60px;
+}
+
+#hiw {
+    margin-top: 70px;
+    margin-bottom:20px;
+}
+
+.wid {
+    width: 620px;
+    margin-left: 350px;
+}
+.col-md {
+    width: 30.7%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    float:left;
+  }
+
+img {
+    width:50px;
+    margin-bottom:10px;
+    margin-top:40px;
+}
+
+.icon {
+    margin:10px;
+    margin-left:40px;
+    line-height:23px;
+    width:1250px;
+}
+
+#sim {
+    margin-top: 150px;
+    margin-bottom:20px;
+}
+
+.col-mdp {
+    width: 20.7%;
+    position: relative;
+    min-height: 1px;
+    float:left;
+    margin:60px -110px 80px 180px;
+    line-height:40px;
+    border:1px solid lightgrey;
+    padding-bottom:20px;
+    border-radius:5px;
+  }
+
+.blue {
+    background-color:#6666ff;
+    padding:15px;
+    padding-top:40px;
+    color:white;
+    line-height:20px;
+}
+
+.bot {
+    width:100px;
+    background-color:lightgreen;
+    text-decoration-color:white;
+}
+
+fieldset {
+    margin:0;
+    padding:0;
+    border:0;
+    position:relative;
+}
+.legend1 {
+    position:absolute;
+    top:-0.7em;
+    margin-left:23%;
+    background:lightgreen;
+    line-height:1.2em;
+    width:150px;
+    color:white;
+}
+
+.botto {
+    margin-bottom:20px;
+}
+
+a {
+    color:white;
+    text-decoration:none;
+}
